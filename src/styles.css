@@ -1,0 +1,26 @@
+body,
+html {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background: black;
+  color: chartreuse;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo-text {
+  color: chartreuse;
+}
+
+.primary-nav a {
+  color: chartreuse;
+  margin-left: 10px;
+}
